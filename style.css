@@ -1,0 +1,19 @@
+.hero_top {
+  /* width: auto; */
+  display: flex;
+}
+
+.btn-lg {
+  width: 950px;
+
+}
+
+.btn-primary.disabled,
+.btn-primary:disabled {
+  background-color: #13b5b1;
+}
+
+.btn-secondary {
+  width: 200px;
+  margin-left: 5px;
+}
